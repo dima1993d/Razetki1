@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: cc41263a4b718484696688659f51d132
+timeCreated: 1531315802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Couch Fu\xDF"
+    100002: "Couch Fu\xDF.001"
+    100004: "Couch Fu\xDF.002"
+    100006: "Couch Fu\xDF.003"
+    100008: "Couch Fu\xDF.004"
+    100010: "Couch Fu\xDF.005"
+    100012: "Couch Fu\xDF.006"
+    100014: "Couch Fu\xDF.007"
+    100016: "Couch Fu\xDF.008"
+    100018: "Couch Fu\xDF.009"
+    100020: "Couch Fu\xDF.010"
+    100022: "Couch Fu\xDF.011"
+    100024: "Couch Fu\xDF.012"
+    100026: "Couch Fu\xDF.013"
+    100028: "Couch Fu\xDF.014"
+    100030: "Couch Fu\xDF.015"
+    100032: "Couch Fu\xDF.016"
+    100034: "Couch Fu\xDF.017"
+    100036: "Couch R\xFCcken"
+    100038: "Couch R\xFCcken.001"
+    100040: "Couch R\xFCcken.002"
+    100042: "Couch R\xFCcken.003"
+    100044: "Couch R\xFCcken.004"
+    100046: "Couch R\xFCcken.005"
+    100048: Couch Seitenteil
+    100050: Couch Seitenteil.001
+    100052: Couch Seitenteil.002
+    100054: Couch Seitenteil.003
+    100056: Couch Seitenteil.004
+    100058: Couch Seitenteil.005
+    100060: Couch Sitz
+    100062: Couch Sitz.001
+    100064: Couch Sitz.002
+    100066: Couch Sitz.003
+    100068: Couch Sitz.004
+    100070: Couch Sitz.005
+    100072: Couch Sitz.006
+    100074: Couch Sitz.007
+    100076: Couch Sitz.008
+    100078: Couch Sitz.009
+    100080: Couch Sitz.010
+    100082: Couch Sitz.011
+    100084: Couch Sitz.012
+    100086: Couch Sitz.013
+    100088: Couch Sitz.014
+    100090: Couch Sitz.015
+    100092: Couch Sitz.016
+    100094: Couch Sitz.017
+    100096: Couch Sitz.018
+    100098: Couch Sitz.019
+    100100: Couch Sitz.020
+    100102: Cube.000
+    100104: Cube.001
+    100106: Cube.002
+    100108: Esstisch Lampe Querstange
+    100110: Esstisch Lampenschirm
+    100112: Esstisch Lampenschirm Abschluss
+    100114: Esstisch Lampenschirm Abschluss.001
+    100116: Esstisch Lampenschirm Abschluss.002
+    100118: Esstisch Lampenschirm Abschluss.003
+    100120: Esstisch Lampenschirm Abschluss.004
+    100122: Esstisch Lampenschirm Abschluss.005
+    100124: Esstisch Lampenschirm Abschluss.006
+    100126: Esstisch Lampenschirm Abschluss.007
+    100128: Esstisch Lampenschirm Abschluss.008
+    100130: Esstisch Lampenschirm Halter
+    100132: Esstisch Lampenschirm Halter.001
+    100134: Esstisch Lampenschirm Halter.002
+    100136: Esstisch Lampenschirm Halter.003
+    100138: Esstisch Lampenschirm Halter.004
+    100140: Esstisch Lampenschirm Innen
+    100142: Esstisch Lampenschirm Innen.001
+    100144: Esstisch Lampenschirm Innen.002
+    100146: Esstisch Lampenschirm Innen.003
+    100148: Esstisch Lampenschirm Innen.004
+    100150: Esstisch Lampenschirm.001
+    100152: Esstisch Lampenschirm.002
+    100154: Esstisch Lampenschirm.003
+    100156: Esstisch Lampenschirm.004
+    100158: Esstischfuss oben
+    100160: Esstischfuss oben 2
+    100162: Esstischfuss untern
+    100164: Esstischfuss untern.001
+    100166: Esstischplatte
+    100168: Esstischstab
+    100170: Gardine rechts
+    100172: Gardine rechts.001
+    100174: Gardine rechts.002
+    100176: Gardine Vorhang
+    100178: Gardine Vorhang.001
+    100180: Gardine Vorhang.002
+    100182: Gardine Vorhang.003
+    100184: Gardine Vorhang.004
+    100186: Gardine Vorhang.005
+    100188: Gardinenhalterkugel
+    100190: Gardinenhalterkugel.001
+    100192: Gardinenhalterkugel.002
+    100194: Gardinenhalterkugel.003
+    100196: Gardinenhalterkugel.004
+    100198: Gardinenhalterkugel.005
+    100200: Gardinenhalterkugel.006
+    100202: Gardinenhalterkugel.007
+    100204: Gardinenhalterkugel.008
+    100206: Gardinenhalterkugel.009
+    100208: Gardinenhalterkugel.010
+    100210: Gardinenhalterkugel.011
+    100212: Gardinenstange
+    100214: Gardinenstange.001
+    100216: Gardinenstange.002
+    100218: Gardinenstange.003
+    100220: Gardinenstange.004
+    100222: Gardinenstange.005
+    100224: Gardinenstangenkonus
+    100226: Gardinenstangenkonus.001
+    100228: Gardinenstangenkonus.002
+    100230: Gardinenstangenkonus.003
+    100232: Gardinenstangenkonus.004
+    100234: Gardinenstangenkonus.005
+    100236: Gardninenhalter
+    100238: Gardninenhalter.001
+    100240: Gardninenhalter.002
+    100242: Gardninenhalter.003
+    100244: Gardninenhalter.004
+    100246: Gardninenhalter.005
+    100248: Gardninenhalter.006
+    100250: Gardninenhalter.007
+    100252: Gardninenhalter.008
+    100254: Gardninenhalter.009
+    100256: Gardninenhalter.010
+    100258: Gardninenhalter.011
+    100260: Lampe Innen Tisch klein
+    100262: Lampe Tisch klein
+    100264: Licht Lampe Couchgruppe
+    100266: Licht Lampe Couchgruppe.001
+    100268: Licht Lampe Couchgruppe.002
+    100270: Licht Lampe Couchgruppe.003
+    100272: Licht Lampe Couchgruppe.004
+    100274: Licht Lampe Couchgruppe.005
+    100276: //RootNode
+    100278: Stufe
+    100280: Stufe.001
+    100282: Stufe.002
+    100284: Stufe.003
+    100286: Stufe.004
+    100288: Stufe.005
+    100290: Stufe.006
+    100292: Stufe.007
+    100294: Stufe.008
+    100296: Stufe.009
+    100298: Stufe.010
+    100300: Stufe.011
+    100302: Stufe.012
+    100304: Stufe.013
+    100306: Stufe.014
+    100308: Stufe.016
+    100310: Stufe.017
+    100312: "Stuhl Fu\xDF"
+    100314: "Stuhl Fu\xDF.001"
+    100316: "Stuhl Fu\xDF.002"
+    100318: "Stuhl Fu\xDF.003"
+    100320: "Stuhl Fu\xDF.004"
+    100322: "Stuhl Fu\xDF.005"
+    100324: "Stuhl Fu\xDF.006"
+    100326: "Stuhl Fu\xDF.007"
+    100328: "Stuhl Fu\xDF.008"
+    100330: "Stuhl Fu\xDF.009"
+    100332: "Stuhl Fu\xDF.010"
+    100334: "Stuhl Fu\xDF.011"
+    100336: Stuhl Sitz.000
+    100338: Stuhl Sitz.001
+    100340: Stuhl Sitz.002
+    100342: Stuhl Sitz.003
+    100344: Stuhl Sitz.004
+    100346: Stuhl Sitz.005
+    100348: Stuhl Sitz.006
+    100350: Stuhl Sitz.007
+    100352: Stuhl Sitz.008
+    100354: Stuhl Sitz.009
+    100356: Stuhl Sitz.010
+    100358: Stuhl Sitz.011
+    100360: Tisch klein Lampenschirm Abschluss
+    100362: Tisch klein Lampenschirm Halter.005
+    100364: Tisch klein Lampenschirm Kabel
+    100366: Tischfuss
+    100368: Tischfuss.001
+    100370: Tischfuss.002
+    100372: Tischfuss.003
+    100374: Tischplatte
+    100376: "Treppe Gel\xE4ndehandlauf"
+    100378: "Treppe Gel\xE4ndehandlauf.001"
+    100380: Treppe Halterung
+    100382: Treppe kurve
+    100384: Treppe kurve.001
+    100386: Treppe Stange Halter
+    100388: Treppe Stange Halter.001
+    100390: Wand 1
+    100392: Wand Seite
+    400000: "Couch Fu\xDF"
+    400002: "Couch Fu\xDF.001"
+    400004: "Couch Fu\xDF.002"
+    400006: "Couch Fu\xDF.003"
+    400008: "Couch Fu\xDF.004"
+    400010: "Couch Fu\xDF.005"
+    400012: "Couch Fu\xDF.006"
+    400014: "Couch Fu\xDF.007"
+    400016: "Couch Fu\xDF.008"
+    400018: "Couch Fu\xDF.009"
+    400020: "Couch Fu\xDF.010"
+    400022: "Couch Fu\xDF.011"
+    400024: "Couch Fu\xDF.012"
+    400026: "Couch Fu\xDF.013"
+    400028: "Couch Fu\xDF.014"
+    400030: "Couch Fu\xDF.015"
+    400032: "Couch Fu\xDF.016"
+    400034: "Couch Fu\xDF.017"
+    400036: "Couch R\xFCcken"
+    400038: "Couch R\xFCcken.001"
+    400040: "Couch R\xFCcken.002"
+    400042: "Couch R\xFCcken.003"
+    400044: "Couch R\xFCcken.004"
+    400046: "Couch R\xFCcken.005"
+    400048: Couch Seitenteil
+    400050: Couch Seitenteil.001
+    400052: Couch Seitenteil.002
+    400054: Couch Seitenteil.003
+    400056: Couch Seitenteil.004
+    400058: Couch Seitenteil.005
+    400060: Couch Sitz
+    400062: Couch Sitz.001
+    400064: Couch Sitz.002
+    400066: Couch Sitz.003
+    400068: Couch Sitz.004
+    400070: Couch Sitz.005
+    400072: Couch Sitz.006
+    400074: Couch Sitz.007
+    400076: Couch Sitz.008
+    400078: Couch Sitz.009
+    400080: Couch Sitz.010
+    400082: Couch Sitz.011
+    400084: Couch Sitz.012
+    400086: Couch Sitz.013
+    400088: Couch Sitz.014
+    400090: Couch Sitz.015
+    400092: Couch Sitz.016
+    400094: Couch Sitz.017
+    400096: Couch Sitz.018
+    400098: Couch Sitz.019
+    400100: Couch Sitz.020
+    400102: Cube.000
+    400104: Cube.001
+    400106: Cube.002
+    400108: Esstisch Lampe Querstange
+    400110: Esstisch Lampenschirm
+    400112: Esstisch Lampenschirm Abschluss
+    400114: Esstisch Lampenschirm Abschluss.001
+    400116: Esstisch Lampenschirm Abschluss.002
+    400118: Esstisch Lampenschirm Abschluss.003
+    400120: Esstisch Lampenschirm Abschluss.004
+    400122: Esstisch Lampenschirm Abschluss.005
+    400124: Esstisch Lampenschirm Abschluss.006
+    400126: Esstisch Lampenschirm Abschluss.007
+    400128: Esstisch Lampenschirm Abschluss.008
+    400130: Esstisch Lampenschirm Halter
+    400132: Esstisch Lampenschirm Halter.001
+    400134: Esstisch Lampenschirm Halter.002
+    400136: Esstisch Lampenschirm Halter.003
+    400138: Esstisch Lampenschirm Halter.004
+    400140: Esstisch Lampenschirm Innen
+    400142: Esstisch Lampenschirm Innen.001
+    400144: Esstisch Lampenschirm Innen.002
+    400146: Esstisch Lampenschirm Innen.003
+    400148: Esstisch Lampenschirm Innen.004
+    400150: Esstisch Lampenschirm.001
+    400152: Esstisch Lampenschirm.002
+    400154: Esstisch Lampenschirm.003
+    400156: Esstisch Lampenschirm.004
+    400158: Esstischfuss oben
+    400160: Esstischfuss oben 2
+    400162: Esstischfuss untern
+    400164: Esstischfuss untern.001
+    400166: Esstischplatte
+    400168: Esstischstab
+    400170: Gardine rechts
+    400172: Gardine rechts.001
+    400174: Gardine rechts.002
+    400176: Gardine Vorhang
+    400178: Gardine Vorhang.001
+    400180: Gardine Vorhang.002
+    400182: Gardine Vorhang.003
+    400184: Gardine Vorhang.004
+    400186: Gardine Vorhang.005
+    400188: Gardinenhalterkugel
+    400190: Gardinenhalterkugel.001
+    400192: Gardinenhalterkugel.002
+    400194: Gardinenhalterkugel.003
+    400196: Gardinenhalterkugel.004
+    400198: Gardinenhalterkugel.005
+    400200: Gardinenhalterkugel.006
+    400202: Gardinenhalterkugel.007
+    400204: Gardinenhalterkugel.008
+    400206: Gardinenhalterkugel.009
+    400208: Gardinenhalterkugel.010
+    400210: Gardinenhalterkugel.011
+    400212: Gardinenstange
+    400214: Gardinenstange.001
+    400216: Gardinenstange.002
+    400218: Gardinenstange.003
+    400220: Gardinenstange.004
+    400222: Gardinenstange.005
+    400224: Gardinenstangenkonus
+    400226: Gardinenstangenkonus.001
+    400228: Gardinenstangenkonus.002
+    400230: Gardinenstangenkonus.003
+    400232: Gardinenstangenkonus.004
+    400234: Gardinenstangenkonus.005
+    400236: Gardninenhalter
+    400238: Gardninenhalter.001
+    400240: Gardninenhalter.002
+    400242: Gardninenhalter.003
+    400244: Gardninenhalter.004
+    400246: Gardninenhalter.005
+    400248: Gardninenhalter.006
+    400250: Gardninenhalter.007
+    400252: Gardninenhalter.008
+    400254: Gardninenhalter.009
+    400256: Gardninenhalter.010
+    400258: Gardninenhalter.011
+    400260: Lampe Innen Tisch klein
+    400262: Lampe Tisch klein
+    400264: Licht Lampe Couchgruppe
+    400266: Licht Lampe Couchgruppe.001
+    400268: Licht Lampe Couchgruppe.002
+    400270: Licht Lampe Couchgruppe.003
+    400272: Licht Lampe Couchgruppe.004
+    400274: Licht Lampe Couchgruppe.005
+    400276: //RootNode
+    400278: Stufe
+    400280: Stufe.001
+    400282: Stufe.002
+    400284: Stufe.003
+    400286: Stufe.004
+    400288: Stufe.005
+    400290: Stufe.006
+    400292: Stufe.007
+    400294: Stufe.008
+    400296: Stufe.009
+    400298: Stufe.010
+    400300: Stufe.011
+    400302: Stufe.012
+    400304: Stufe.013
+    400306: Stufe.014
+    400308: Stufe.016
+    400310: Stufe.017
+    400312: "Stuhl Fu\xDF"
+    400314: "Stuhl Fu\xDF.001"
+    400316: "Stuhl Fu\xDF.002"
+    400318: "Stuhl Fu\xDF.003"
+    400320: "Stuhl Fu\xDF.004"
+    400322: "Stuhl Fu\xDF.005"
+    400324: "Stuhl Fu\xDF.006"
+    400326: "Stuhl Fu\xDF.007"
+    400328: "Stuhl Fu\xDF.008"
+    400330: "Stuhl Fu\xDF.009"
+    400332: "Stuhl Fu\xDF.010"
+    400334: "Stuhl Fu\xDF.011"
+    400336: Stuhl Sitz.000
+    400338: Stuhl Sitz.001
+    400340: Stuhl Sitz.002
+    400342: Stuhl Sitz.003
+    400344: Stuhl Sitz.004
+    400346: Stuhl Sitz.005
+    400348: Stuhl Sitz.006
+    400350: Stuhl Sitz.007
+    400352: Stuhl Sitz.008
+    400354: Stuhl Sitz.009
+    400356: Stuhl Sitz.010
+    400358: Stuhl Sitz.011
+    400360: Tisch klein Lampenschirm Abschluss
+    400362: Tisch klein Lampenschirm Halter.005
+    400364: Tisch klein Lampenschirm Kabel
+    400366: Tischfuss
+    400368: Tischfuss.001
+    400370: Tischfuss.002
+    400372: Tischfuss.003
+    400374: Tischplatte
+    400376: "Treppe Gel\xE4ndehandlauf"
+    400378: "Treppe Gel\xE4ndehandlauf.001"
+    400380: Treppe Halterung
+    400382: Treppe kurve
+    400384: Treppe kurve.001
+    400386: Treppe Stange Halter
+    400388: Treppe Stange Halter.001
+    400390: Wand 1
+    400392: Wand Seite
+    2100000: Licht unten
+    2100002: Licht oben
+    2100004: Licht unten.001
+    2100006: Licht oben.001
+    2100008: Stahl
+    2100010: JewelryRoughGold
+    2100012: Stufe
+    2100014: No Name
+    2100016: Esstisch Lampenschirm Innen
+    2100018: Esstisch Lampen Material
+    2100020: Gardine Vorhang
+    2100022: Gardinenstange
+    2100024: Gardine
+    2100026: Kabel
+    2100028: "Stuhl Fu\xDF"
+    2100030: Stuhl Sitz
+    2100032: Stuhl Sitz Ornament
+    2100034: "Esstisch St\xE4nder unten"
+    2100036: Esstisch Stange
+    2100038: "Esstisch St\xE4nder Rund"
+    2100040: Esstischplatte kurz
+    2100042: Esstischplatte lange Seite 1
+    2100044: Esstischplatte Oberteil
+    2100046: Wand 2
+    2100048: Wand 1
+    2100050: Couch
+    2100052: "Couch Fu\xDF"
+    2100054: Couch Polster
+    2100056: Tischfuss
+    2100058: Tischplatte
+    2100060: Tischplatte Oben
+    2300000: "Couch Fu\xDF"
+    2300002: "Couch Fu\xDF.001"
+    2300004: "Couch Fu\xDF.002"
+    2300006: "Couch Fu\xDF.003"
+    2300008: "Couch Fu\xDF.004"
+    2300010: "Couch Fu\xDF.005"
+    2300012: "Couch Fu\xDF.006"
+    2300014: "Couch Fu\xDF.007"
+    2300016: "Couch Fu\xDF.008"
+    2300018: "Couch Fu\xDF.009"
+    2300020: "Couch Fu\xDF.010"
+    2300022: "Couch Fu\xDF.011"
+    2300024: "Couch Fu\xDF.012"
+    2300026: "Couch Fu\xDF.013"
+    2300028: "Couch Fu\xDF.014"
+    2300030: "Couch Fu\xDF.015"
+    2300032: "Couch Fu\xDF.016"
+    2300034: "Couch Fu\xDF.017"
+    2300036: "Couch R\xFCcken"
+    2300038: "Couch R\xFCcken.001"
+    2300040: "Couch R\xFCcken.002"
+    2300042: "Couch R\xFCcken.003"
+    2300044: "Couch R\xFCcken.004"
+    2300046: "Couch R\xFCcken.005"
+    2300048: Couch Seitenteil
+    2300050: Couch Seitenteil.001
+    2300052: Couch Seitenteil.002
+    2300054: Couch Seitenteil.003
+    2300056: Couch Seitenteil.004
+    2300058: Couch Seitenteil.005
+    2300060: Couch Sitz
+    2300062: Couch Sitz.001
+    2300064: Couch Sitz.002
+    2300066: Couch Sitz.003
+    2300068: Couch Sitz.004
+    2300070: Couch Sitz.005
+    2300072: Couch Sitz.006
+    2300074: Couch Sitz.007
+    2300076: Couch Sitz.008
+    2300078: Couch Sitz.009
+    2300080: Couch Sitz.010
+    2300082: Couch Sitz.011
+    2300084: Couch Sitz.012
+    2300086: Couch Sitz.013
+    2300088: Couch Sitz.014
+    2300090: Couch Sitz.015
+    2300092: Couch Sitz.016
+    2300094: Couch Sitz.017
+    2300096: Couch Sitz.018
+    2300098: Couch Sitz.019
+    2300100: Couch Sitz.020
+    2300102: Cube.000
+    2300104: Cube.001
+    2300106: Cube.002
+    2300108: Esstisch Lampe Querstange
+    2300110: Esstisch Lampenschirm
+    2300112: Esstisch Lampenschirm Abschluss
+    2300114: Esstisch Lampenschirm Abschluss.001
+    2300116: Esstisch Lampenschirm Abschluss.002
+    2300118: Esstisch Lampenschirm Abschluss.003
+    2300120: Esstisch Lampenschirm Abschluss.004
+    2300122: Esstisch Lampenschirm Abschluss.005
+    2300124: Esstisch Lampenschirm Abschluss.006
+    2300126: Esstisch Lampenschirm Abschluss.007
+    2300128: Esstisch Lampenschirm Abschluss.008
+    2300130: Esstisch Lampenschirm Halter
+    2300132: Esstisch Lampenschirm Halter.001
+    2300134: Esstisch Lampenschirm Halter.002
+    2300136: Esstisch Lampenschirm Halter.003
+    2300138: Esstisch Lampenschirm Halter.004
+    2300140: Esstisch Lampenschirm Innen
+    2300142: Esstisch Lampenschirm Innen.001
+    2300144: Esstisch Lampenschirm Innen.002
+    2300146: Esstisch Lampenschirm Innen.003
+    2300148: Esstisch Lampenschirm Innen.004
+    2300150: Esstisch Lampenschirm.001
+    2300152: Esstisch Lampenschirm.002
+    2300154: Esstisch Lampenschirm.003
+    2300156: Esstisch Lampenschirm.004
+    2300158: Esstischfuss oben
+    2300160: Esstischfuss oben 2
+    2300162: Esstischfuss untern
+    2300164: Esstischfuss untern.001
+    2300166: Esstischplatte
+    2300168: Esstischstab
+    2300170: Gardine rechts
+    2300172: Gardine rechts.001
+    2300174: Gardine rechts.002
+    2300176: Gardine Vorhang
+    2300178: Gardine Vorhang.001
+    2300180: Gardine Vorhang.002
+    2300182: Gardine Vorhang.003
+    2300184: Gardine Vorhang.004
+    2300186: Gardine Vorhang.005
+    2300188: Gardinenhalterkugel
+    2300190: Gardinenhalterkugel.001
+    2300192: Gardinenhalterkugel.002
+    2300194: Gardinenhalterkugel.003
+    2300196: Gardinenhalterkugel.004
+    2300198: Gardinenhalterkugel.005
+    2300200: Gardinenhalterkugel.006
+    2300202: Gardinenhalterkugel.007
+    2300204: Gardinenhalterkugel.008
+    2300206: Gardinenhalterkugel.009
+    2300208: Gardinenhalterkugel.010
+    2300210: Gardinenhalterkugel.011
+    2300212: Gardinenstange
+    2300214: Gardinenstange.001
+    2300216: Gardinenstange.002
+    2300218: Gardinenstange.003
+    2300220: Gardinenstange.004
+    2300222: Gardinenstange.005
+    2300224: Gardinenstangenkonus
+    2300226: Gardinenstangenkonus.001
+    2300228: Gardinenstangenkonus.002
+    2300230: Gardinenstangenkonus.003
+    2300232: Gardinenstangenkonus.004
+    2300234: Gardinenstangenkonus.005
+    2300236: Gardninenhalter
+    2300238: Gardninenhalter.001
+    2300240: Gardninenhalter.002
+    2300242: Gardninenhalter.003
+    2300244: Gardninenhalter.004
+    2300246: Gardninenhalter.005
+    2300248: Gardninenhalter.006
+    2300250: Gardninenhalter.007
+    2300252: Gardninenhalter.008
+    2300254: Gardninenhalter.009
+    2300256: Gardninenhalter.010
+    2300258: Gardninenhalter.011
+    2300260: Lampe Innen Tisch klein
+    2300262: Lampe Tisch klein
+    2300264: Licht Lampe Couchgruppe
+    2300266: Licht Lampe Couchgruppe.001
+    2300268: Licht Lampe Couchgruppe.002
+    2300270: Licht Lampe Couchgruppe.003
+    2300272: Licht Lampe Couchgruppe.004
+    2300274: Licht Lampe Couchgruppe.005
+    2300276: Stufe
+    2300278: Stufe.001
+    2300280: Stufe.002
+    2300282: Stufe.003
+    2300284: Stufe.004
+    2300286: Stufe.005
+    2300288: Stufe.006
+    2300290: Stufe.007
+    2300292: Stufe.008
+    2300294: Stufe.009
+    2300296: Stufe.010
+    2300298: Stufe.011
+    2300300: Stufe.012
+    2300302: Stufe.013
+    2300304: Stufe.014
+    2300306: Stufe.016
+    2300308: Stufe.017
+    2300310: "Stuhl Fu\xDF"
+    2300312: "Stuhl Fu\xDF.001"
+    2300314: "Stuhl Fu\xDF.002"
+    2300316: "Stuhl Fu\xDF.003"
+    2300318: "Stuhl Fu\xDF.004"
+    2300320: "Stuhl Fu\xDF.005"
+    2300322: "Stuhl Fu\xDF.006"
+    2300324: "Stuhl Fu\xDF.007"
+    2300326: "Stuhl Fu\xDF.008"
+    2300328: "Stuhl Fu\xDF.009"
+    2300330: "Stuhl Fu\xDF.010"
+    2300332: "Stuhl Fu\xDF.011"
+    2300334: Stuhl Sitz.000
+    2300336: Stuhl Sitz.001
+    2300338: Stuhl Sitz.002
+    2300340: Stuhl Sitz.003
+    2300342: Stuhl Sitz.004
+    2300344: Stuhl Sitz.005
+    2300346: Stuhl Sitz.006
+    2300348: Stuhl Sitz.007
+    2300350: Stuhl Sitz.008
+    2300352: Stuhl Sitz.009
+    2300354: Stuhl Sitz.010
+    2300356: Stuhl Sitz.011
+    2300358: Tisch klein Lampenschirm Abschluss
+    2300360: Tisch klein Lampenschirm Halter.005
+    2300362: Tisch klein Lampenschirm Kabel
+    2300364: Tischfuss
+    2300366: Tischfuss.001
+    2300368: Tischfuss.002
+    2300370: Tischfuss.003
+    2300372: Tischplatte
+    2300374: "Treppe Gel\xE4ndehandlauf"
+    2300376: "Treppe Gel\xE4ndehandlauf.001"
+    2300378: Treppe Halterung
+    2300380: Treppe kurve
+    2300382: Treppe kurve.001
+    2300384: Treppe Stange Halter
+    2300386: Treppe Stange Halter.001
+    2300388: Wand 1
+    2300390: Wand Seite
+    2300392: //RootNode
+    3300000: "Couch Fu\xDF"
+    3300002: "Couch Fu\xDF.001"
+    3300004: "Couch Fu\xDF.002"
+    3300006: "Couch Fu\xDF.003"
+    3300008: "Couch Fu\xDF.004"
+    3300010: "Couch Fu\xDF.005"
+    3300012: "Couch Fu\xDF.006"
+    3300014: "Couch Fu\xDF.007"
+    3300016: "Couch Fu\xDF.008"
+    3300018: "Couch Fu\xDF.009"
+    3300020: "Couch Fu\xDF.010"
+    3300022: "Couch Fu\xDF.011"
+    3300024: "Couch Fu\xDF.012"
+    3300026: "Couch Fu\xDF.013"
+    3300028: "Couch Fu\xDF.014"
+    3300030: "Couch Fu\xDF.015"
+    3300032: "Couch Fu\xDF.016"
+    3300034: "Couch Fu\xDF.017"
+    3300036: "Couch R\xFCcken"
+    3300038: "Couch R\xFCcken.001"
+    3300040: "Couch R\xFCcken.002"
+    3300042: "Couch R\xFCcken.003"
+    3300044: "Couch R\xFCcken.004"
+    3300046: "Couch R\xFCcken.005"
+    3300048: Couch Seitenteil
+    3300050: Couch Seitenteil.001
+    3300052: Couch Seitenteil.002
+    3300054: Couch Seitenteil.003
+    3300056: Couch Seitenteil.004
+    3300058: Couch Seitenteil.005
+    3300060: Couch Sitz
+    3300062: Couch Sitz.001
+    3300064: Couch Sitz.002
+    3300066: Couch Sitz.003
+    3300068: Couch Sitz.004
+    3300070: Couch Sitz.005
+    3300072: Couch Sitz.006
+    3300074: Couch Sitz.007
+    3300076: Couch Sitz.008
+    3300078: Couch Sitz.009
+    3300080: Couch Sitz.010
+    3300082: Couch Sitz.011
+    3300084: Couch Sitz.012
+    3300086: Couch Sitz.013
+    3300088: Couch Sitz.014
+    3300090: Couch Sitz.015
+    3300092: Couch Sitz.016
+    3300094: Couch Sitz.017
+    3300096: Couch Sitz.018
+    3300098: Couch Sitz.019
+    3300100: Couch Sitz.020
+    3300102: Cube.000
+    3300104: Cube.001
+    3300106: Cube.002
+    3300108: Esstisch Lampe Querstange
+    3300110: Esstisch Lampenschirm
+    3300112: Esstisch Lampenschirm Abschluss
+    3300114: Esstisch Lampenschirm Abschluss.001
+    3300116: Esstisch Lampenschirm Abschluss.002
+    3300118: Esstisch Lampenschirm Abschluss.003
+    3300120: Esstisch Lampenschirm Abschluss.004
+    3300122: Esstisch Lampenschirm Abschluss.005
+    3300124: Esstisch Lampenschirm Abschluss.006
+    3300126: Esstisch Lampenschirm Abschluss.007
+    3300128: Esstisch Lampenschirm Abschluss.008
+    3300130: Esstisch Lampenschirm Halter
+    3300132: Esstisch Lampenschirm Halter.001
+    3300134: Esstisch Lampenschirm Halter.002
+    3300136: Esstisch Lampenschirm Halter.003
+    3300138: Esstisch Lampenschirm Halter.004
+    3300140: Esstisch Lampenschirm Innen
+    3300142: Esstisch Lampenschirm Innen.001
+    3300144: Esstisch Lampenschirm Innen.002
+    3300146: Esstisch Lampenschirm Innen.003
+    3300148: Esstisch Lampenschirm Innen.004
+    3300150: Esstisch Lampenschirm.001
+    3300152: Esstisch Lampenschirm.002
+    3300154: Esstisch Lampenschirm.003
+    3300156: Esstisch Lampenschirm.004
+    3300158: Esstischfuss oben
+    3300160: Esstischfuss oben 2
+    3300162: Esstischfuss untern
+    3300164: Esstischfuss untern.001
+    3300166: Esstischplatte
+    3300168: Esstischstab
+    3300170: Gardine rechts
+    3300172: Gardine rechts.001
+    3300174: Gardine rechts.002
+    3300176: Gardine Vorhang
+    3300178: Gardine Vorhang.001
+    3300180: Gardine Vorhang.002
+    3300182: Gardine Vorhang.003
+    3300184: Gardine Vorhang.004
+    3300186: Gardine Vorhang.005
+    3300188: Gardinenhalterkugel
+    3300190: Gardinenhalterkugel.001
+    3300192: Gardinenhalterkugel.002
+    3300194: Gardinenhalterkugel.003
+    3300196: Gardinenhalterkugel.004
+    3300198: Gardinenhalterkugel.005
+    3300200: Gardinenhalterkugel.006
+    3300202: Gardinenhalterkugel.007
+    3300204: Gardinenhalterkugel.008
+    3300206: Gardinenhalterkugel.009
+    3300208: Gardinenhalterkugel.010
+    3300210: Gardinenhalterkugel.011
+    3300212: Gardinenstange
+    3300214: Gardinenstange.001
+    3300216: Gardinenstange.002
+    3300218: Gardinenstange.003
+    3300220: Gardinenstange.004
+    3300222: Gardinenstange.005
+    3300224: Gardinenstangenkonus
+    3300226: Gardinenstangenkonus.001
+    3300228: Gardinenstangenkonus.002
+    3300230: Gardinenstangenkonus.003
+    3300232: Gardinenstangenkonus.004
+    3300234: Gardinenstangenkonus.005
+    3300236: Gardninenhalter
+    3300238: Gardninenhalter.001
+    3300240: Gardninenhalter.002
+    3300242: Gardninenhalter.003
+    3300244: Gardninenhalter.004
+    3300246: Gardninenhalter.005
+    3300248: Gardninenhalter.006
+    3300250: Gardninenhalter.007
+    3300252: Gardninenhalter.008
+    3300254: Gardninenhalter.009
+    3300256: Gardninenhalter.010
+    3300258: Gardninenhalter.011
+    3300260: Lampe Innen Tisch klein
+    3300262: Lampe Tisch klein
+    3300264: Licht Lampe Couchgruppe
+    3300266: Licht Lampe Couchgruppe.001
+    3300268: Licht Lampe Couchgruppe.002
+    3300270: Licht Lampe Couchgruppe.003
+    3300272: Licht Lampe Couchgruppe.004
+    3300274: Licht Lampe Couchgruppe.005
+    3300276: Stufe
+    3300278: Stufe.001
+    3300280: Stufe.002
+    3300282: Stufe.003
+    3300284: Stufe.004
+    3300286: Stufe.005
+    3300288: Stufe.006
+    3300290: Stufe.007
+    3300292: Stufe.008
+    3300294: Stufe.009
+    3300296: Stufe.010
+    3300298: Stufe.011
+    3300300: Stufe.012
+    3300302: Stufe.013
+    3300304: Stufe.014
+    3300306: Stufe.016
+    3300308: Stufe.017
+    3300310: "Stuhl Fu\xDF"
+    3300312: "Stuhl Fu\xDF.001"
+    3300314: "Stuhl Fu\xDF.002"
+    3300316: "Stuhl Fu\xDF.003"
+    3300318: "Stuhl Fu\xDF.004"
+    3300320: "Stuhl Fu\xDF.005"
+    3300322: "Stuhl Fu\xDF.006"
+    3300324: "Stuhl Fu\xDF.007"
+    3300326: "Stuhl Fu\xDF.008"
+    3300328: "Stuhl Fu\xDF.009"
+    3300330: "Stuhl Fu\xDF.010"
+    3300332: "Stuhl Fu\xDF.011"
+    3300334: Stuhl Sitz.000
+    3300336: Stuhl Sitz.001
+    3300338: Stuhl Sitz.002
+    3300340: Stuhl Sitz.003
+    3300342: Stuhl Sitz.004
+    3300344: Stuhl Sitz.005
+    3300346: Stuhl Sitz.006
+    3300348: Stuhl Sitz.007
+    3300350: Stuhl Sitz.008
+    3300352: Stuhl Sitz.009
+    3300354: Stuhl Sitz.010
+    3300356: Stuhl Sitz.011
+    3300358: Tisch klein Lampenschirm Abschluss
+    3300360: Tisch klein Lampenschirm Halter.005
+    3300362: Tisch klein Lampenschirm Kabel
+    3300364: Tischfuss
+    3300366: Tischfuss.001
+    3300368: Tischfuss.002
+    3300370: Tischfuss.003
+    3300372: Tischplatte
+    3300374: "Treppe Gel\xE4ndehandlauf"
+    3300376: "Treppe Gel\xE4ndehandlauf.001"
+    3300378: Treppe Halterung
+    3300380: Treppe kurve
+    3300382: Treppe kurve.001
+    3300384: Treppe Stange Halter
+    3300386: Treppe Stange Halter.001
+    3300388: Wand 1
+    3300390: Wand Seite
+    3300392: //RootNode
+    4300000: Licht Lampe Couchgruppe.005
+    4300002: Licht Lampe Couchgruppe.004
+    4300004: Licht Lampe Couchgruppe.003
+    4300006: Licht Lampe Couchgruppe.002
+    4300008: Licht Lampe Couchgruppe.001
+    4300010: Licht Lampe Couchgruppe
+    4300012: Treppe Halterung
+    4300014: Treppe kurve.001
+    4300016: Treppe kurve
+    4300018: "Treppe Gel\xE4ndehandlauf.001"
+    4300020: Cube.002
+    4300022: Cube.000
+    4300024: Cube.001
+    4300026: Stufe.014
+    4300028: Stufe.013
+    4300030: Stufe.012
+    4300032: Treppe Stange Halter.001
+    4300034: Treppe Stange Halter
+    4300036: "Treppe Gel\xE4ndehandlauf"
+    4300038: Stufe.017
+    4300040: Stufe.016
+    4300042: Stufe.011
+    4300044: Stufe.010
+    4300046: Stufe.009
+    4300048: Stufe.008
+    4300050: Stufe.007
+    4300052: Stufe.006
+    4300054: Stufe.005
+    4300056: Stufe.004
+    4300058: Stufe.003
+    4300060: Stufe.002
+    4300062: Stufe.001
+    4300064: Stufe
+    4300066: Tisch klein Lampenschirm Kabel
+    4300068: Tisch klein Lampenschirm Abschluss
+    4300070: Tisch klein Lampenschirm Halter.005
+    4300072: Lampe Innen Tisch klein
+    4300074: Lampe Tisch klein
+    4300076: Esstisch Lampenschirm Innen.004
+    4300078: Esstisch Lampenschirm Innen.003
+    4300080: Esstisch Lampenschirm Innen.002
+    4300082: Esstisch Lampenschirm Innen.001
+    4300084: Esstisch Lampenschirm Innen
+    4300086: Gardine Vorhang.005
+    4300088: Gardine Vorhang.004
+    4300090: Gardinenhalterkugel.011
+    4300092: Gardinenhalterkugel.010
+    4300094: Gardinenstange.005
+    4300096: Gardninenhalter.011
+    4300098: Gardninenhalter.010
+    4300100: Gardninenhalter.009
+    4300102: Gardninenhalter.008
+    4300104: Gardinenstange.004
+    4300106: Gardinenhalterkugel.009
+    4300108: Gardinenhalterkugel.008
+    4300110: Gardine Vorhang.003
+    4300112: Gardine Vorhang.002
+    4300114: Gardine Vorhang.001
+    4300116: Gardine Vorhang
+    4300118: Gardinenhalterkugel.007
+    4300120: Gardinenhalterkugel.006
+    4300122: Gardinenstange.003
+    4300124: Gardninenhalter.007
+    4300126: Gardninenhalter.006
+    4300128: Gardninenhalter.005
+    4300130: Gardninenhalter.004
+    4300132: Gardinenhalterkugel.005
+    4300134: Gardinenstangenkonus.005
+    4300136: Gardinenstangenkonus.004
+    4300138: Gardinenhalterkugel.004
+    4300140: Gardinenstange.002
+    4300142: Gardine rechts.002
+    4300144: Gardine rechts.001
+    4300146: Gardinenstange.001
+    4300148: Gardinenhalterkugel.003
+    4300150: Gardinenstangenkonus.003
+    4300152: Gardinenstangenkonus.002
+    4300154: Gardinenhalterkugel.002
+    4300156: Gardninenhalter.003
+    4300158: Gardninenhalter.002
+    4300160: Gardninenhalter.001
+    4300162: Gardninenhalter
+    4300164: Gardinenhalterkugel.001
+    4300166: Gardinenstangenkonus.001
+    4300168: Gardinenstangenkonus
+    4300170: Gardinenhalterkugel
+    4300172: Gardinenstange
+    4300174: Esstisch Lampenschirm Abschluss.008
+    4300176: Esstisch Lampenschirm Abschluss.007
+    4300178: Esstisch Lampenschirm Abschluss.006
+    4300180: Esstisch Lampenschirm Abschluss.005
+    4300182: Esstisch Lampe Querstange
+    4300184: Esstisch Lampenschirm Abschluss.004
+    4300186: Esstisch Lampenschirm Halter.004
+    4300188: Esstisch Lampenschirm.004
+    4300190: Esstisch Lampenschirm.003
+    4300192: Esstisch Lampenschirm Halter.003
+    4300194: Esstisch Lampenschirm Abschluss.003
+    4300196: Esstisch Lampenschirm Abschluss.002
+    4300198: Esstisch Lampenschirm Halter.002
+    4300200: Esstisch Lampenschirm.002
+    4300202: Esstisch Lampenschirm.001
+    4300204: Esstisch Lampenschirm Halter.001
+    4300206: Esstisch Lampenschirm Abschluss.001
+    4300208: Esstisch Lampenschirm Abschluss
+    4300210: Esstisch Lampenschirm Halter
+    4300212: Esstisch Lampenschirm
+    4300214: Gardine rechts
+    4300216: "Stuhl Fu\xDF.011"
+    4300218: Stuhl Sitz.010
+    4300220: Stuhl Sitz.009
+    4300222: "Stuhl Fu\xDF.010"
+    4300224: "Stuhl Fu\xDF.009"
+    4300226: Stuhl Sitz.008
+    4300228: Stuhl Sitz.007
+    4300230: "Stuhl Fu\xDF.008"
+    4300232: "Stuhl Fu\xDF.007"
+    4300234: Stuhl Sitz.006
+    4300236: Stuhl Sitz.005
+    4300238: "Stuhl Fu\xDF.006"
+    4300240: "Stuhl Fu\xDF.005"
+    4300242: Stuhl Sitz.004
+    4300244: Stuhl Sitz.003
+    4300246: "Stuhl Fu\xDF.004"
+    4300248: "Stuhl Fu\xDF.003"
+    4300250: Stuhl Sitz.002
+    4300252: Stuhl Sitz.001
+    4300254: "Stuhl Fu\xDF.002"
+    4300256: "Stuhl Fu\xDF.001"
+    4300258: Stuhl Sitz.000
+    4300260: Stuhl Sitz.011
+    4300262: "Stuhl Fu\xDF"
+    4300264: Esstischfuss untern.001
+    4300266: Esstischstab
+    4300268: Esstischfuss oben
+    4300270: Esstischfuss untern
+    4300272: Esstischfuss oben 2
+    4300274: Esstischplatte
+    4300276: Wand Seite
+    4300278: Wand 1
+    4300280: Couch Seitenteil.004
+    4300282: "Couch R\xFCcken.005"
+    4300284: Couch Sitz.020
+    4300286: "Couch Fu\xDF.017"
+    4300288: "Couch Fu\xDF.016"
+    4300290: Couch Sitz.019
+    4300292: Couch Sitz.018
+    4300294: "Couch Fu\xDF.015"
+    4300296: "Couch Fu\xDF.014"
+    4300298: "Couch R\xFCcken.004"
+    4300300: Couch Sitz.017
+    4300302: "Couch Fu\xDF.013"
+    4300304: "Couch Fu\xDF.012"
+    4300306: Couch Sitz.016
+    4300308: Couch Sitz.015
+    4300310: Couch Sitz.014
+    4300312: Couch Seitenteil.003
+    4300314: Tischfuss.003
+    4300316: Tischfuss.002
+    4300318: Tischfuss.001
+    4300320: Tischfuss
+    4300322: Tischplatte
+    4300324: Couch Seitenteil.002
+    4300326: "Couch R\xFCcken.003"
+    4300328: Couch Sitz.013
+    4300330: "Couch Fu\xDF.011"
+    4300332: "Couch Fu\xDF.010"
+    4300334: Couch Sitz.012
+    4300336: Couch Sitz.011
+    4300338: "Couch Fu\xDF.009"
+    4300340: "Couch Fu\xDF.008"
+    4300342: "Couch R\xFCcken.002"
+    4300344: Couch Sitz.010
+    4300346: "Couch Fu\xDF.007"
+    4300348: "Couch Fu\xDF.006"
+    4300350: Couch Sitz.008
+    4300352: Couch Sitz.007
+    4300354: Couch Sitz.004
+    4300356: Couch Seitenteil.001
+    4300358: Couch Seitenteil.005
+    4300360: Couch Sitz.009
+    4300362: Couch Sitz.006
+    4300364: Couch Sitz.005
+    4300366: "Couch Fu\xDF.005"
+    4300368: "Couch Fu\xDF.004"
+    4300370: Couch Sitz.003
+    4300372: "Couch R\xFCcken.001"
+    4300374: "Couch Fu\xDF.003"
+    4300376: "Couch Fu\xDF.002"
+    4300378: Couch Sitz.002
+    4300380: Couch Sitz.001
+    4300382: "Couch Fu\xDF.001"
+    4300384: "Couch Fu\xDF"
+    4300386: Couch Sitz
+    4300388: "Couch R\xFCcken"
+    4300390: Couch Seitenteil
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
